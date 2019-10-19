@@ -1,13 +1,13 @@
 
-title: My Resume # your title
-url: 'http://junlulocky.com'
-baseurl: '/online-cv' #change it according to your repository name
+title: Youssef Sabbagh # your title
+url: 'http://github.com/Youssef-Sabbagh/Sitio'
+baseurl: '/Sitio' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-location: San Francisco , CA
+yourname: Youssef Sabbagh  ## put your name
+location: Caracas, Venezuela
 
 
 ## Social Profiles
